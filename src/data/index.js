@@ -1,6 +1,5 @@
-import defaultSEOConfig from "../../next-seo.config";
 
-export const pageName = defaultSEOConfig.title;
+export const pageName = "name";
 
 export const navData = [
   {
