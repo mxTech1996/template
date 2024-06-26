@@ -12,6 +12,7 @@
     "axios": "^1.6.8",
     "ecommerce-mxtech": "^0.0.50",
     "fs": "^0.0.1-security",
+    "inquirer": "^9.2.23",
     "lodash": "^4.17.21",
     "lodash.map": "^4.6.0",
     "next": "14.1.0",
